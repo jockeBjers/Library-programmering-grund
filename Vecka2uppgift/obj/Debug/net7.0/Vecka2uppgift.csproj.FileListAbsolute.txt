@@ -1,0 +1,14 @@
+c:\Users\Asus\Documents\repos\programmering_grund\Vecka2uppgift\Vecka2uppgift\bin\Debug\net7.0\Vecka2uppgift.exe
+c:\Users\Asus\Documents\repos\programmering_grund\Vecka2uppgift\Vecka2uppgift\bin\Debug\net7.0\Vecka2uppgift.deps.json
+c:\Users\Asus\Documents\repos\programmering_grund\Vecka2uppgift\Vecka2uppgift\bin\Debug\net7.0\Vecka2uppgift.runtimeconfig.json
+c:\Users\Asus\Documents\repos\programmering_grund\Vecka2uppgift\Vecka2uppgift\bin\Debug\net7.0\Vecka2uppgift.dll
+c:\Users\Asus\Documents\repos\programmering_grund\Vecka2uppgift\Vecka2uppgift\bin\Debug\net7.0\Vecka2uppgift.pdb
+c:\Users\Asus\Documents\repos\programmering_grund\Vecka2uppgift\Vecka2uppgift\obj\Debug\net7.0\Vecka2uppgift.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Asus\Documents\repos\programmering_grund\Vecka2uppgift\Vecka2uppgift\obj\Debug\net7.0\Vecka2uppgift.AssemblyInfoInputs.cache
+c:\Users\Asus\Documents\repos\programmering_grund\Vecka2uppgift\Vecka2uppgift\obj\Debug\net7.0\Vecka2uppgift.AssemblyInfo.cs
+c:\Users\Asus\Documents\repos\programmering_grund\Vecka2uppgift\Vecka2uppgift\obj\Debug\net7.0\Vecka2uppgift.csproj.CoreCompileInputs.cache
+c:\Users\Asus\Documents\repos\programmering_grund\Vecka2uppgift\Vecka2uppgift\obj\Debug\net7.0\Vecka2uppgift.dll
+c:\Users\Asus\Documents\repos\programmering_grund\Vecka2uppgift\Vecka2uppgift\obj\Debug\net7.0\refint\Vecka2uppgift.dll
+c:\Users\Asus\Documents\repos\programmering_grund\Vecka2uppgift\Vecka2uppgift\obj\Debug\net7.0\Vecka2uppgift.pdb
+c:\Users\Asus\Documents\repos\programmering_grund\Vecka2uppgift\Vecka2uppgift\obj\Debug\net7.0\Vecka2uppgift.genruntimeconfig.cache
+c:\Users\Asus\Documents\repos\programmering_grund\Vecka2uppgift\Vecka2uppgift\obj\Debug\net7.0\ref\Vecka2uppgift.dll

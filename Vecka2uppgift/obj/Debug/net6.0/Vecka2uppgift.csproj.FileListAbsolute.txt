@@ -1,0 +1,5 @@
+C:\Users\Asus\Documents\repos\programmering_grund\Vecka2uppgift\Vecka2uppgift\obj\Debug\net6.0\Vecka2uppgift.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\repos\programmering_grund\Vecka2uppgift\Vecka2uppgift\obj\Debug\net6.0\Vecka2uppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\repos\programmering_grund\Vecka2uppgift\Vecka2uppgift\obj\Debug\net6.0\Vecka2uppgift.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\repos\programmering_grund\Vecka2uppgift\Vecka2uppgift\obj\Debug\net6.0\Vecka2uppgift.AssemblyInfo.cs
+C:\Users\Asus\Documents\repos\programmering_grund\Vecka2uppgift\Vecka2uppgift\obj\Debug\net6.0\Vecka2uppgift.csproj.CoreCompileInputs.cache
