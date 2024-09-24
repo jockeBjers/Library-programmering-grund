@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\Documents\\repos\\programmering_grund\\Vecka2uppgift\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{23AE863D-6166-4EB3-87B3-5D8C247B33AF}|Vecka2uppgift\\Vecka2uppgift.csproj|c:\\users\\asus\\documents\\repos\\programmering_grund\\vecka2uppgift\\vecka2uppgift\\productsinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AE863D-6166-4EB3-87B3-5D8C247B33AF}|Vecka2uppgift\\Vecka2uppgift.csproj|solutionrelative:vecka2uppgift\\productsinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{23AE863D-6166-4EB3-87B3-5D8C247B33AF}|Vecka2uppgift\\Vecka2uppgift.csproj|c:\\users\\asus\\documents\\repos\\programmering_grund\\vecka2uppgift\\vecka2uppgift\\studentinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23AE863D-6166-4EB3-87B3-5D8C247B33AF}|Vecka2uppgift\\Vecka2uppgift.csproj|solutionrelative:vecka2uppgift\\studentinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AE863D-6166-4EB3-87B3-5D8C247B33AF}|Vecka2uppgift\\Vecka2uppgift.csproj|c:\\users\\asus\\documents\\repos\\programmering_grund\\vecka2uppgift\\vecka2uppgift\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AE863D-6166-4EB3-87B3-5D8C247B33AF}|Vecka2uppgift\\Vecka2uppgift.csproj|solutionrelative:vecka2uppgift\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23AE863D-6166-4EB3-87B3-5D8C247B33AF}|Vecka2uppgift\\Vecka2uppgift.csproj|c:\\users\\asus\\documents\\repos\\programmering_grund\\vecka2uppgift\\vecka2uppgift\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +23,12 @@
       "RelativeMoniker": "D:0:0:{23AE863D-6166-4EB3-87B3-5D8C247B33AF}|Vecka2uppgift\\Vecka2uppgift.csproj|solutionrelative:vecka2uppgift\\bookinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23AE863D-6166-4EB3-87B3-5D8C247B33AF}|Vecka2uppgift\\Vecka2uppgift.csproj|c:\\users\\asus\\documents\\repos\\programmering_grund\\vecka2uppgift\\vecka2uppgift\\productsinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23AE863D-6166-4EB3-87B3-5D8C247B33AF}|Vecka2uppgift\\Vecka2uppgift.csproj|solutionrelative:vecka2uppgift\\productsinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23AE863D-6166-4EB3-87B3-5D8C247B33AF}|Vecka2uppgift\\Vecka2uppgift.csproj|c:\\users\\asus\\documents\\repos\\programmering_grund\\vecka2uppgift\\vecka2uppgift\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23AE863D-6166-4EB3-87B3-5D8C247B33AF}|Vecka2uppgift\\Vecka2uppgift.csproj|solutionrelative:vecka2uppgift\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{23AE863D-6166-4EB3-87B3-5D8C247B33AF}|Vecka2uppgift\\Vecka2uppgift.csproj|c:\\users\\asus\\documents\\repos\\programmering_grund\\vecka2uppgift\\vecka2uppgift\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23AE863D-6166-4EB3-87B3-5D8C247B33AF}|Vecka2uppgift\\Vecka2uppgift.csproj|solutionrelative:vecka2uppgift\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23AE863D-6166-4EB3-87B3-5D8C247B33AF}|Vecka2uppgift\\Vecka2uppgift.csproj|c:\\users\\asus\\documents\\repos\\programmering_grund\\vecka2uppgift\\vecka2uppgift\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23AE863D-6166-4EB3-87B3-5D8C247B33AF}|Vecka2uppgift\\Vecka2uppgift.csproj|solutionrelative:vecka2uppgift\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23AE863D-6166-4EB3-87B3-5D8C247B33AF}|Vecka2uppgift\\Vecka2uppgift.csproj|c:\\users\\asus\\documents\\repos\\programmering_grund\\vecka2uppgift\\vecka2uppgift\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AE863D-6166-4EB3-87B3-5D8C247B33AF}|Vecka2uppgift\\Vecka2uppgift.csproj|solutionrelative:vecka2uppgift\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -48,39 +48,40 @@
               "RelativeDocumentMoniker": "Vecka2uppgift\\Program.cs",
               "ToolTip": "C:\\Users\\Asus\\Documents\\repos\\programmering_grund\\Vecka2uppgift\\Vecka2uppgift\\Program.cs",
               "RelativeToolTip": "Vecka2uppgift\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwA0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T04:47:01.332Z"
+              "WhenOpened": "2024-09-22T04:47:01.332Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BookInterface.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Documents\\repos\\programmering_grund\\Vecka2uppgift\\Vecka2uppgift\\BookInterface.cs",
               "RelativeDocumentMoniker": "Vecka2uppgift\\BookInterface.cs",
               "ToolTip": "C:\\Users\\Asus\\Documents\\repos\\programmering_grund\\Vecka2uppgift\\Vecka2uppgift\\BookInterface.cs",
               "RelativeToolTip": "Vecka2uppgift\\BookInterface.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwIkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-22T04:47:47.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Library.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Documents\\repos\\programmering_grund\\Vecka2uppgift\\Vecka2uppgift\\Library.cs",
               "RelativeDocumentMoniker": "Vecka2uppgift\\Library.cs",
               "ToolTip": "C:\\Users\\Asus\\Documents\\repos\\programmering_grund\\Vecka2uppgift\\Vecka2uppgift\\Library.cs",
               "RelativeToolTip": "Vecka2uppgift\\Library.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-22T04:47:50.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Documents\\repos\\programmering_grund\\Vecka2uppgift\\Vecka2uppgift\\Book.cs",
               "RelativeDocumentMoniker": "Vecka2uppgift\\Book.cs",
@@ -88,42 +89,44 @@
               "RelativeToolTip": "Vecka2uppgift\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T04:47:46.065Z"
+              "WhenOpened": "2024-09-22T04:47:46.065Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ProductsInterface.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Documents\\repos\\programmering_grund\\Vecka2uppgift\\Vecka2uppgift\\ProductsInterface.cs",
               "RelativeDocumentMoniker": "Vecka2uppgift\\ProductsInterface.cs",
               "ToolTip": "C:\\Users\\Asus\\Documents\\repos\\programmering_grund\\Vecka2uppgift\\Vecka2uppgift\\ProductsInterface.cs",
               "RelativeToolTip": "Vecka2uppgift\\ProductsInterface.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAkwFgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAcwI4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T04:47:51.636Z"
+              "WhenOpened": "2024-09-22T04:47:51.636Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StudentInterface.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Documents\\repos\\programmering_grund\\Vecka2uppgift\\Vecka2uppgift\\StudentInterface.cs",
               "RelativeDocumentMoniker": "Vecka2uppgift\\StudentInterface.cs",
               "ToolTip": "C:\\Users\\Asus\\Documents\\repos\\programmering_grund\\Vecka2uppgift\\Vecka2uppgift\\StudentInterface.cs",
               "RelativeToolTip": "Vecka2uppgift\\StudentInterface.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAiwDgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-22T04:47:52.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "InputHelper.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Documents\\repos\\programmering_grund\\Vecka2uppgift\\Vecka2uppgift\\InputHelper.cs",
               "RelativeDocumentMoniker": "Vecka2uppgift\\InputHelper.cs",
               "ToolTip": "C:\\Users\\Asus\\Documents\\repos\\programmering_grund\\Vecka2uppgift\\Vecka2uppgift\\InputHelper.cs",
               "RelativeToolTip": "Vecka2uppgift\\InputHelper.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAQwEkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-22T04:47:49.144Z"
             }

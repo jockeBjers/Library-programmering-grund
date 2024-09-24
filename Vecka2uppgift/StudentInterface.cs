@@ -58,6 +58,7 @@ namespace Vecka2uppgift
             Console.WriteLine("Press to continue: ");
             Console.ReadLine(); // method closes and takes you back to the menu after a button click.
         }
+
         public static void AddStudent()
         {
             Console.Clear();
@@ -74,6 +75,7 @@ namespace Vecka2uppgift
             }
             PrintAllStudents(); //prints out the list of students including the new added students.
         }
+
         public static void RemoveStudent()
         {
             Console.Clear();

@@ -20,7 +20,7 @@ namespace Vecka2uppgift
                 //Trying the input to see if it is an int or not
                 int input = InputHelper.GetUserInput<int>("Press:\n1. to list product\n2. to add a product\n" +
                     "3. to update a product\n4. to remove a product\n5. to exit"); // To get user input
-                                                                                                                                                                          //Switch-case for the menu choices, choose by input.
+                                                                                   //Switch-case for the menu choices, choose by input.
                 switch (input)
                 {
                     case 1:
@@ -53,19 +53,21 @@ namespace Vecka2uppgift
             products.Add("Flag", 149.99);
             products.Add("Sword", 29.99);
         }
+
         public static void PrintAllProducts()
         {
             Console.Clear();
             // Sorting the products by price 
             var sortedProducts = products
                 .OrderBy(item => item.Value); // Order by the product price
-                
+
             Console.WriteLine("Products sorted by price:");
             foreach (var item in sortedProducts)  //Loops through the sorted products and prints them out.
             {
                 Console.WriteLine($"Product: {item.Key}, Price: {item.Value}");
             }
         }
+
         public static void AddProduct()
         {   //Add to the dictionary
             Console.Clear();
@@ -129,18 +131,21 @@ namespace Vecka2uppgift
             {
                 string productName = InputHelper.GetUserInput<string>("Enter the product name you want to remove:"); //Initialize The variable to compare.
                 // Check if the product exists
-                if (!products.ContainsKey(productName)) // If the product isnt found the Method is called again
+                if (!products.ContainsKey(productName)) // If the product isnt found a message is shown.
                 {
                     Console.WriteLine("Product not found.");
-                    RemoveProduct();
                 }
-                // Remove the product
-                products.Remove(productName); // Removing the productName from the dictionary.
-                Console.WriteLine($"Product '{productName}' has been removed."); //output to confirm the removal
+                else
+                {
+                    // Remove the product
+                    products.Remove(productName); // Removing the productName from the dictionary.
+                    Console.WriteLine($"Product '{productName}' has been removed."); //output to confirm the removal
+                }
                 if (!InputHelper.GetConfirmation("Would you like to continue removing products?"))
                 {
                     break; // Exit loop and go back to menu
                 }
+
             }
         }
     }

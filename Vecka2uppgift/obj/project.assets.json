@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Documents\\repos\\programmering_grund\\Vecka2uppgift\\Vecka2uppgift\\Vecka2uppgift.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Documents\\repos\\programmering_grund\\Library-programmering-grund\\Vecka2uppgift\\Vecka2uppgift.csproj",
       "projectName": "Vecka2uppgift",
-      "projectPath": "C:\\Users\\Asus\\Documents\\repos\\programmering_grund\\Vecka2uppgift\\Vecka2uppgift\\Vecka2uppgift.csproj",
+      "projectPath": "C:\\Users\\Asus\\Documents\\repos\\programmering_grund\\Library-programmering-grund\\Vecka2uppgift\\Vecka2uppgift.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Documents\\repos\\programmering_grund\\Vecka2uppgift\\Vecka2uppgift\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Documents\\repos\\programmering_grund\\Library-programmering-grund\\Vecka2uppgift\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

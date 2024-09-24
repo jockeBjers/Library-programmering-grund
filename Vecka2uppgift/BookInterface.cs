@@ -63,6 +63,7 @@ namespace Vecka2uppgift
                 }
             }
         }
+
         private static void RemoveBook() // remove a book
         {
             Console.Clear();
@@ -95,6 +96,7 @@ namespace Vecka2uppgift
                 Console.WriteLine("No book found with that ISBN.");
             }
         }
+
         private static void ModifyBook(Book book) //ask user what to do with found book.
         {
             while (true)

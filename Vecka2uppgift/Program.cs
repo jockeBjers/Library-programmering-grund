@@ -38,6 +38,7 @@ class Program
             } // end of switch
         } //end of while
     }
+
     public static void CloseProgram() // the program closes the environment.
     {
         Console.Clear();
