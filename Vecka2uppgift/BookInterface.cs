@@ -8,30 +8,30 @@ namespace Vecka2uppgift
 {
     public class BookInterface
     {
-        public static void Menu() //Menu to navigate through the Library.
+        public static void Menu() 
         {
             InitializeBooks();
             Console.Clear();
             while (true)
             {
                 int input = InputHelper.GetUserInput<int>("Press:\n1. List all books\n2. Add a book\n" +
-                    "3. Remove a book\n4. Find a book by ISBN\n5. Exit"); // To get user input
+                    "3. Remove a book\n4. Find a book by ISBN\n5. Exit"); 
                 switch (input)
                 {
                     case 1:
-                        Library.PrintAllBooks(); //lists all books in the library
+                        Library.PrintAllBooks(); 
                         break;
                     case 2:
-                        AddBook(); //To add a new book
+                        AddBook(); 
                         break;
                     case 3:
-                        RemoveBook(); // to remove a book
+                        RemoveBook(); 
                         break;
                     case 4:
-                        FindBook(); // To find a book and alter the quantity
+                        FindBook(); 
                         break;
                     case 5:
-                        Program.CloseProgram(); //exit
+                        Program.CloseProgram(); 
                         break;
                     default:
                         Console.WriteLine("That number doesn't exist.");
@@ -40,7 +40,7 @@ namespace Vecka2uppgift
             }
         }
 
-        private static void AddBook() //adds new book to the library
+        private static void AddBook() 
         {
             Console.Clear();
             while (true)
@@ -64,7 +64,7 @@ namespace Vecka2uppgift
             }
         }
 
-        private static void RemoveBook() // remove a book
+        private static void RemoveBook() 
         {
             Console.Clear();
             while (true)
@@ -97,7 +97,7 @@ namespace Vecka2uppgift
             }
         }
 
-        private static void ModifyBook(Book book) //ask user what to do with found book.
+        private static void ModifyBook(Book book) //ask user what to do with found book
         {
             while (true)
             {

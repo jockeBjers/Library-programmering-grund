@@ -7,36 +7,33 @@ namespace Vecka2uppgift
 {
     public class StudentInterface
     {
-        //Creating a list with students added to it.
-        private static List<string> students = new() { "Tomma", "Aron", "Walter", "Erik", "Kotte", "Fabbe", "Tiger" };
+        private static List<string> students = ["Tomma", "Aron", "Walter", "Erik", "Kotte", "Fabbe", "Tiger"];
 
         public static void Menu()
         {
             Console.Clear();
-            // The Menu keeps looping until closed. 
             while (true)
-            {
-                //Trying the input to see if it is an int or not                
+            {              
                 int input = InputHelper.GetUserInput<int>("press\n1. to list all students\n2. To add student\n" +
                     "3. To remove student\n4. To search for student\n5. Exit program");
-                switch (input) //switch to chose from the menu by input.
+                switch (input) 
                 {
                     case 1:
-                        PrintAllStudents(); // Go to method for printing out the list
+                        PrintAllStudents(); 
                         break;
                     case 2:
-                        AddStudent(); // Go to method to add new students
+                        AddStudent(); 
                         break;
                     case 3:
-                        RemoveStudent(); // Go to method to remove students
+                        RemoveStudent(); 
                         break;
                     case 4:
-                        SearchStudent(); // Search student list by name
+                        SearchStudent(); 
                         break;
                     case 5:
-                        Program.CloseProgram();  // closes the program when called.
+                        Program.CloseProgram();  
                         break;
-                    default: //Message when a number is entered that doesnt exist in the switch case.
+                    default: 
                         Console.WriteLine("That number doesnt exist.");
                         break;
                 } // end of switch
@@ -46,7 +43,6 @@ namespace Vecka2uppgift
         public static void PrintAllStudents()
         {
             Console.Clear();
-            //Iterates through the list with a foreach, printing out all the students.
             Console.WriteLine("students in the list: ");
             students.Sort(); // Sorting the students by alphabetical order
 
@@ -56,30 +52,28 @@ namespace Vecka2uppgift
             }
             Console.WriteLine();
             Console.WriteLine("Press to continue: ");
-            Console.ReadLine(); // method closes and takes you back to the menu after a button click.
+            Console.ReadLine(); 
         }
 
         public static void AddStudent()
         {
             Console.Clear();
-            // prompts you to add students until you write stop
             while (true)
             {
                 string student = InputHelper.GetUserInput<string>("Write the name of a student you want to add: ");
-                students.Add(student!); // Adding the student to the list students. 
+                students.Add(student!); 
 
                 if (!InputHelper.GetConfirmation("Would you like to add another student?"))
                 {
-                    break; // Exit loop and go back to menu
+                    break; 
                 }
             }
-            PrintAllStudents(); //prints out the list of students including the new added students.
+            PrintAllStudents(); 
         }
 
         public static void RemoveStudent()
         {
             Console.Clear();
-            // prompts you to add students until you write stop
             while (true)
             {
                 string student = InputHelper.GetUserInput<string>("Write the name of the student you want to remove: ");
@@ -93,12 +87,12 @@ namespace Vecka2uppgift
                 }
                 if (!InputHelper.GetConfirmation("Would you like to remove another student?"))
                 {
-                    break; // Exit loop and go back to menu
+                    break;
                 }
             }
-            PrintAllStudents(); //prints out the updated list
+            PrintAllStudents(); 
         }
-        public static void SearchStudent() // Search for student
+        public static void SearchStudent() 
         {
             Console.Clear();
             while (true)

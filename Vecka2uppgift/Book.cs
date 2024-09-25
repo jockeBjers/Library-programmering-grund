@@ -7,7 +7,6 @@ namespace Vecka2uppgift
 {
     public class Book
     {
-        // Properties for the book
         public required string Title { get; set; }
         public required string Author { get; set; }
         public int CopiesAvailable { get; set; }

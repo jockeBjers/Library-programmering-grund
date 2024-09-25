@@ -9,10 +9,10 @@ namespace Vecka2uppgift
     {
         private static Dictionary<long, Book> books = new();
 
-        // Method for listing all books
+        
         public static void PrintAllBooks()
         {
-            Console.Clear(); // Clear console for readability
+            Console.Clear(); 
             var sortedBooks = books
             .OrderBy(book => book.Value.CopiesAvailable); // Sorting based on copies available
             foreach (var book in sortedBooks)
@@ -21,7 +21,7 @@ namespace Vecka2uppgift
             }
         }
 
-        // Method for adding a book
+        
         public static void AddBook(string title, string author, long isbn, int copies)
         {
             if (books.Values.Any(b => b.ISBN == isbn)) // looking for matching isbn
@@ -35,7 +35,7 @@ namespace Vecka2uppgift
             Console.WriteLine($"Book '{title}' added with ISBN {isbn}.");
         }
 
-        public static void RemoveBook(long isbn) // Method for removing a book
+        public static void RemoveBook(long isbn) 
         {
             if (books.Remove(isbn)) //If isbn matching, remeove book
             {
@@ -47,14 +47,13 @@ namespace Vecka2uppgift
             }
         }
 
-        // Method for finding a book by ISBN
+        
         public static Book? FindBookByISBN(long isbn) //if no book found, null is returned
         {
             // returning found book to the method to continue to next method to modify the content 
             return books.Values.FirstOrDefault(b => b.ISBN == isbn);
         }
 
-        // Method for modifying the quantity of a book
         public static void ModifyBookQuantity(Book book, int choice, int? newTotal = null) //The newTotal is optional
         {
             switch (choice)

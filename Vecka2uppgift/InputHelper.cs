@@ -5,9 +5,8 @@ using System.Threading.Tasks;
 
 namespace Vecka2uppgift
 {
-    public class InputHelper 
+    public class InputHelper
     {
-        // This helper method is created by Jesper Wallentin in the class. I have modified it slightly to fit my needs for this project.
         static public T GetUserInput<T>(string message = "") //Takes in any variable and returns the type
         {
             string typeName = typeof(T).Name.ToLower();
@@ -60,7 +59,7 @@ namespace Vecka2uppgift
         }
 
         public static bool GetConfirmation(string message)
-            // As I have a lot of yes / no in my methods, I decided to make a simple helper to handle those cases 
+        // As I have a lot of yes / no in my methods, I decided to make a simple helper to handle those cases 
         {
             Console.Write($"{message} (y/n): ");
             string input = Console.ReadLine()!.ToLower();
@@ -69,7 +68,7 @@ namespace Vecka2uppgift
                 Console.Write("Invalid input. Please enter 'y' or 'n': ");
                 input = Console.ReadLine()!.ToLower();
             }
-            return input == "y"; // Om input är "y" returneras true, annars om "n" returneras false.
+            return input == "y"; // if input is y, true is returned, else if n, its false.
         }
     }
 }
